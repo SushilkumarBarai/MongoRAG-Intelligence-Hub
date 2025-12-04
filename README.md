@@ -1,11 +1,11 @@
-# MongoRAG-Intelligence-Hub
-Transform your documents into AI-ready knowledge with MongoDB vectors.
 
-# Advanced Retrieval-Augmented Generation (RAG) with MongoDB Vector Search
-
-## 🚀 Project Title
+## 🚀 MongoRAG-Intelligence-Hub
 **VectorMind RAG Engine**  
-**Slogan:** *Powered by MongoDB vectors for deeper, smarter retrieval.*
+
+This project implements an end-to-end Retrieval-Augmented Generation (RAG) pipeline using MongoDB Vector Search and OpenAI models.  
+It converts PDFs into searchable vector embeddings, retrieves the most relevant context, and generates precise AI responses.  
+A single, streamlined Python class handles ingestion, indexing, semantic search, and LLM reasoning.
+
 
 ---
 
