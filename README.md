@@ -86,3 +86,23 @@ rag.create_vector_index()
 answer, docs = rag.answer_query("What are MongoDB's latest AI announcements?")
 print(answer)
 ```
+
+## 🛠 Tech Stack
+
+- Python 3
+- MongoDB Atlas
+- OpenAI GPT & Embeddings
+- LangChain for PDF & Text processing
+
+## 🧪 Future Enhancements
+
+- Add FastAPI endpoints
+- Add Streamlit UI
+- Add caching with Redis
+- Multi-PDF ingestion
+- Real-time vector updates
+-Evaluation metrics (MRR, Recall@K, Accuracy)
+
+## 📝 License
+
+This project is open-source. Modify and use freely.
