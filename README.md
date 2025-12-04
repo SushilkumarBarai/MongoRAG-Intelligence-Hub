@@ -87,7 +87,7 @@ rag.ingest_docs(chunks)
 rag.create_vector_index()
 
 # Query the RAG system
-answer, docs = rag.answer_query("What are MongoDB's latest AI announcements?")
+answer, docs = rag.answer_query("What is MongoDB AI Applications Program?")
 print(answer)
 ```
 
