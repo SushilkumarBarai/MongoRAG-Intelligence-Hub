@@ -93,10 +93,10 @@ print(answer)
 
 ## 🛠 Tech Stack
 
-- Python 3
-- MongoDB Atlas
-- OpenAI GPT & Embeddings
-- LangChain for PDF & Text processing
+- **Python > 3.9**
+- **MongoDB Atlas**
+- **OpenAI GPT & Embeddings**
+- **LangChain for PDF & Text processing**
 
 ## 🧪 Future Enhancements
 
