@@ -8,6 +8,10 @@ A single, streamlined Python class handles ingestion, indexing, semantic search,
 
 
 ---
+## 🏗️ Project Architecture
+
+![Project Architecture](https://github.com/SushilkumarBarai/MongoRAG-Intelligence-Hub/blob/main/Screenshot.png)
+
 
 ## 📘 Overview
 
